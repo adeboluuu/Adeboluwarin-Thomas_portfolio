@@ -1,5 +1,4 @@
-Adeboluwarin Thomas
-<<<<<<< HEAD
+# Portfolio
 
-=======
->>>>>>> refs/remotes/origin/main
+# Demo -https://adeboluwarinthomas.netlify.app/
+
