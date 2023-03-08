@@ -186,7 +186,8 @@ h6 {
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
-  color: #173B6C;
+  background-color: #173B6C;
+
 }
 
 /* Mobile Navigation */
@@ -228,6 +229,14 @@ h6 {
   /* background: url("../img/bg\ image.jpg") top center; */
   background-size: cover;
 }
+#hero a:hover i,
+#hero .active i,
+#hero.active:focus i,
+#hero li:hover>a i {
+  background-color: #173B6C;
+  color: white;
+}
+
 
 #hero:before {
   content: "";
